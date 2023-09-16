@@ -1,0 +1,6 @@
+20beca21,Aditya Patra,25-12-2020,fresher,0
+20beca21,Aditya patra,25-12-2020,fresher,800000
+20beca21,Aditya patra,20-12-2020,fresher,800000
+20beca21,Aditya patra,20-12-2020,fresher,800000
+20beca21,Aditya patra,25-12-2020,fresher,500000
+20beca21,aditya patra,25-12-2020,fresher,500000
